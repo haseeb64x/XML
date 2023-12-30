@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="first.xsl" type="text/xsl"?>
+
+<organization>
+
+    <department>
+        <name>Engineering Dep</name>
+        <block>A</block>
+        <location>Street 1</location>
+    </department>
+
+    <department>
+        <name>Law Dep</name>
+        <block>B</block>
+        <location>Street 2</location>
+    </department>
+
+    <department>
+        <name>Arts Dep</name>
+        <block>C</block>
+        <location>Street 3</location>
+    </department>
+
+    <department>
+        <name>HR Dep</name>
+        <block>D</block>
+        <location>Street 4</location>
+    </department>
+
+</organization>
