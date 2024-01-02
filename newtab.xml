@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="one.xsl" type="text/xsl"?>
+
+<organization>
+    <department>
+        <name>Ali</name>
+        <age>19</age>
+        <salary>50K</salary>
+        <number>123678</number>
+    </department>
+
+    <department>
+        <name>Hamza</name>
+        <age>20</age>
+        <salary>55K</salary>
+        <number>198555</number>
+    </department>
+
+    <department>
+        <name>Ibrahim</name>
+        <age>22</age>
+        <salary>45K</salary>
+        <number>234156</number>
+    </department>
+
+    <department>
+        <name>Faris</name>
+        <age>25</age>
+        <salary>60K</salary>
+        <number>123456</number>
+    </department>
+</organization>
