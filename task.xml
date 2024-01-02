@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="task.xsl" type="text/xsl"?>
+
+<music>
+    <album>
+        <Title>D.J Wale Babu</Title>
+        <artist>Badshah</artist>
+    </album>
+
+    <album>
+        <Title>Blue Eyes</Title>
+        <artist>Honey Singh</artist>
+    </album>
+
+    <album>
+        <Title>Faded</Title>
+        <artist>Alan Walker</artist>
+    </album>
+
+    <album>
+        <Title>Industry Baby</Title>
+        <artist>Linlnas X</artist>
+    </album>
+
+    <album>
+        <Title>Astronaut in the Ocean</Title>
+        <artist>Masked Wolf</artist>
+    </album>
+
+    <album>
+        <Title>Bones</Title>
+        <artist>Imagine Dragon</artist>
+    </album>
+
+    <album>
+        <Title>Beliver</Title>
+        <artist>Imagine Dragon</artist>
+    </album>
+
+    <album>
+        <Title>Enemy</Title>
+        <artist>Imagine Dragon</artist>
+    </album>
+
+    <album>
+        <Title>Afsanay</Title>
+        <artist>Young Stunners</artist>
+    </album>
+
+    <album>
+        <Title>Hope</Title>
+        <artist>xxxtentaction</artist>
+    </album>
+</music>
