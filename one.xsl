@@ -16,7 +16,7 @@
                         letter-spacing:10px;
                     }
                     body{
-                        background-color: ;
+                        background-color: black;
                            
                     }
                 </style>
