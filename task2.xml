@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="task2.xsl" type="text/xsl"?>
+
+<orgainzation>
+    <employe>
+        <ID>10234</ID>
+        <name>Salman</name>
+        <salary>50K</salary>
+        <jd>2-2-2015</jd>
+        <position>Manager</position>
+    </employe>
+
+    <employe>
+        <ID>10235</ID>
+        <name>Ibrahim</name>
+        <salary>200K</salary>
+        <jd>3-5-1990</jd>
+        <position>CEO</position>
+    </employe>
+
+    <employe>
+        <ID>10236</ID>
+        <name>Asim</name>
+        <salary>50K</salary>
+        <jd>4-4-2017</jd>
+        <position>Manager</position>
+    </employe>
+
+    <employe>
+        <ID>10237</ID>
+        <name>Hamza</name>
+        <salary>50K</salary>
+        <jd>8-10-2015</jd>
+        <position>Manager</position>
+    </employe>
+
+    <employe>
+        <ID>10238</ID>
+        <name>Saima</name>
+        <salary>100K</salary>
+        <jd>4-5-2000</jd>
+        <position>MD</position>
+    </employe>
+</orgainzation>
