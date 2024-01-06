@@ -13,14 +13,14 @@
                 <table class="table">
                     <tr>
                         <th>Select Product</th>
-                        <th>
-                            <select name="" class="form-control" id="select1">
+                        <th class="col-lg-6">
+                            <select name="" class="form-control" id="select1" onchange="item1(this.value)">
                                 <option value="">Select Product</option>
                             </select>
                         </th>
 
-                        <th>
-                            <select name="" class="form-control" id="select">
+                        <th class="col-lg-6">
+                            <select name="" class="form-control" id="select2" onchange="item2(this.value)">
                                 <option value="">Select Product</option>
                             </select>
                         </th>
@@ -34,25 +34,26 @@
 
                     <tr>
                         <th>Product Price</th>
-                        <td>5000</td>
-                        <td>5000</td>
+                        <td id="price1">5000</td>
+                        <td id="price2">5000</td>
                     </tr>
 
                     <tr>
                         <th>Product Brand</th>
-                        <td>5000</td>
-                        <td>5000</td>
+                        <td id="brand1">5000</td>
+                        <td id="brand2">5000</td>
                     </tr>
 
                     <tr>
                         <th>Product Description</th>
-                        <td>5000</td>
-                        <td>5000</td>
+                        <td id="desc1">5000</td>
+                        <td id="desc2">5000</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
     <script src="./data.js"></script>
+    <script src="./one.js"></script>
 </body>
 </html>
